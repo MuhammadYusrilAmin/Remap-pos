@@ -1,0 +1,16 @@
+c:\users\john\source\repos\formlogin2\formlogin2\bin\Debug\formlogin2.exe.config
+c:\users\john\source\repos\formlogin2\formlogin2\bin\Debug\formlogin2.exe
+c:\users\john\source\repos\formlogin2\formlogin2\bin\Debug\formlogin2.pdb
+c:\users\john\source\repos\formlogin2\formlogin2\bin\Debug\formlogin2.xml
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.vbprojAssemblyReference.cache
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.Resources.resources
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.vbproj.GenerateResource.cache
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.vbproj.CoreCompileInputs.cache
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.exe
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.xml
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.pdb
+c:\users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.Form2.resources
+C:\Users\john\source\repos\formlogin2\formlogin2\bin\Debug\MySql.Data.dll
+C:\Users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.vbproj.CopyComplete
+C:\Users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.form_login.resources
+C:\Users\john\source\repos\formlogin2\formlogin2\obj\Debug\formlogin2.Form3.resources
